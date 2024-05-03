@@ -1,1 +1,2 @@
-# MacTitlebar
+/* Mac titlebar */
+For Windows Discord
