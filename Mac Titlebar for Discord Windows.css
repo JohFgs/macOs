@@ -1,6 +1,7 @@
-/* Mac titlebar fixed*/
+/* Mac titlebar */
 .platform-win .typeWindows_a934d8 {
     z-index: 102;
+    position: absolute;
     flex-direction: row;
     align-items: center;
     top: 1px;
