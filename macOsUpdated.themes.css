@@ -8,7 +8,7 @@
  * @website https://github.com/JohFgs
 */
 
-@import url(https://github.com/JohFgs/macOs/blob/main/macOsUpdated.css);
+@import url(https://raw.githubusercontent.com/JohFgs/macOs/refs/heads/main/macOsUpdated.css);
 
 :root {
   --window-margin: 30
